@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("----.function-----");
+        System.out.println("-----function-----");
         System.out.println("ax^2 + bx + c = 0 ");
 
         System.out.println("Input a: ");
